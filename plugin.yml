@@ -1,0 +1,7 @@
+name: RPLoaderFix
+version: 2.0
+author: EmreTr1
+main: EmreTr1\RPLoaderFix\RPLoaderFix
+src-namespace-prefix: EmreTr1\RPLoaderFix
+api: 5.0.0
+description: A temporary solution for a client bug about loading large MB resource packs in PocketMine-MP
